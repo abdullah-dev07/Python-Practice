@@ -1,0 +1,3 @@
+Ali,90
+Sara,85
+John,70
