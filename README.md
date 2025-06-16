@@ -5,24 +5,24 @@ This repository contains problem sets I solved as part of my ML_AI training. The
 ## ✅ Topics Covered
 
 - **OOP (Object-Oriented Programming)**
-  - Classes and Objects
-  - Constructors
-  - Inheritance
+  - Classes and Objects.
+  - Constructors.
+  - Inheritance.
   - Polymorphism (Compile-time & Runtime)
 - **Decorators**
-  - Function decorators
-  - Class method decorators
+  - Function decorators.
+  - Class method decorators.
 - **Iterators & Generators**
-  - Custom iterators
-  - Generator functions
+  - Custom iterators.
+  - Generator functions.
 - **File Handling**
-  - Reading & writing data to files
-  - Creating file iterators
+  - Reading & writing data to files.
+  - Creating file iterators.
 - **Deep Copy vs Shallow Copy**
-  - Understanding mutable objects and memory references
+  - Understanding mutable objects and memory references.
 - **Miscellaneous**
   - Python best practices
-  - Error handling & debugging complex class structures
+  - Error handling & debugging complex class structures.
 
 
 
