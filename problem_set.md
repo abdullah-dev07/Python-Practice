@@ -2,7 +2,7 @@
 # Python Concepts Practice Problems
 
 
-## 1️⃣ Deep Copy vs Shallow Copy
+## 1 Deep Copy vs Shallow Copy
 
 **Problem:**
 
@@ -22,7 +22,7 @@ students = [
 
 ---
 
-## 2️⃣ Decorators
+## 2 Decorators
 
 **Problem:**
 
@@ -34,7 +34,7 @@ Write a decorator called `log_execution` that:
 
 ---
 
-## 3️⃣ Iterators
+## 3 Iterators
 
 **Problem:**
 
@@ -45,7 +45,7 @@ Create a custom iterator class `SquareIterator` that:
 
 ---
 
-## 4️⃣ File Handling
+## 4 File Handling
 
 **Problem:**
 
@@ -62,7 +62,7 @@ John,70
 
 ---
 
-## 5️⃣ OOP: Classes and Objects
+## 5 OOP: Classes and Objects
 
 **Problem:**
 
@@ -79,7 +79,7 @@ Create an object and demonstrate deposits and withdrawals.
 
 ---
 
-## 6️⃣ Inheritance
+## 6 Inheritance
 
 **Problem:**
 
@@ -95,7 +95,7 @@ Create subclasses `Car` and `Motorcycle` that inherit from `Vehicle`, but:
 
 ---
 
-## 7️⃣ Polymorphism
+## 7 Polymorphism
 
 **Problem:**
 
@@ -106,7 +106,7 @@ Create a function `vehicle_sound()` that accepts any object of class `Car` or `M
 
 ---
 
-## 8️⃣ Generators
+## 8 Generators
 
 **Problem:**
 
@@ -116,7 +116,7 @@ Write a generator function `fibonacci_generator(n)` that yields first `n` Fibona
 
 ---
 
-## 9️⃣ Combined Problem (Bonus Challenge)
+## 9 Combined Problem (Bonus Challenge)
 
 **Problem:**
 
@@ -132,4 +132,43 @@ Build a **Student Management System**:
 
 ---
 
+## 10 Lists
 
+**Problem:**
+
+Remove duplicates from a list without using set.
+
+
+---
+
+## 11 Combined Problem (Bonus Challenge No. 2)
+
+**Problem:**
+
+Build a Library Management System that includes the following functionality:
+
+✅ Requirements & Concepts to Use
+OOP:
+
+* Create a Book class with attributes like title, author, ISBN, and availability status.
+* Create a Library class to manage books.
+
+**File Handling**:
+
+* Save the book inventory to a file (library_data.txt)
+
+* Load the book inventory from the file on startup
+
+**Decorators**:
+
+* Create a decorator to log every book addition or removal to/from the library, printing a message like "Book added: [title]".
+
+**Iterators**:
+
+* Implement a custom iterator in the Library class to iterate over all books that are currently available.
+
+**Deep Copy**:
+
+* Implement a method that returns a deep copy of the current book inventory so that changes can be made safely (e.g., for admin testing or backup).
+
+---
