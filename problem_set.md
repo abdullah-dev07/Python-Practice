@@ -148,7 +148,8 @@ Remove duplicates from a list without using set.
 Build a Library Management System that includes the following functionality:
 
 ✅ Requirements & Concepts to Use
-OOP:
+
+**OOP**:
 
 * Create a Book class with attributes like title, author, ISBN, and availability status.
 * Create a Library class to manage books.
